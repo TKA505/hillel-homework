@@ -1,5 +1,5 @@
 My name is Bohdan
 I like programming.
-My favorite animal is cat
+My favorite animal is cat.
 
 
